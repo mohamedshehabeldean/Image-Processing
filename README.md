@@ -47,9 +47,7 @@ The MATLAB function results can be sent back to the Flask server.
 
 Have questions or want to dive deeper into any specific aspect? Let's discuss! 🚀🤓 hashtag#ImageProcessing hashtag#TechInnovation
 finally, this great achievement will not happen without this great team.
-## eslam zoghla
-## Karim Omran
-## Mohamed Harb
+## eslam zoghla, Karim Omran ,Mohamed Harb
 
 ## this is the link of video
 https://drive.google.com/drive/folders/1oECCJydlNPpPnQeZGnyBGhOd33YYHyi7
