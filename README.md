@@ -49,5 +49,8 @@ Have questions or want to dive deeper into any specific aspect? Let's discuss! ð
 finally, this great achievement will not happen without this great team.
 ## eslam zoghla, Karim Omran ,Mohamed Harb
 
-## this is the link of video
-https://drive.google.com/drive/folders/1oECCJydlNPpPnQeZGnyBGhOd33YYHyi7
+## video
+* the video of my graduation project [click here](https://drive.google.com/drive/folders/1oECCJydlNPpPnQeZGnyBGhOd33YYHyi7
+)
+> [!NOTE]
+> Feel free to reach out if you'd like to learn more about our project or explore potential collaborations.
